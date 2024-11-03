@@ -1,0 +1,6 @@
+Shampoo Dove  =  Rak 8
+nasi goreng = rak 9
+besi = rak 11
+Tang = rak 2
+Sprite = rak 12
+Handphone = rak 1
